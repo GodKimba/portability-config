@@ -1,4 +1,4 @@
 {
-  "payload": "{\"site\":{\"pages\":{\"patients\":\"pacientes-lista.php\"}},\"scope\":\"webdiet\",\"version\":2,\"issuedAt\":\"2026-09-28T21:22:55.690Z\"}",
-  "signature": "MFxPCV63Se06mNrrG5J0oNUsFAvvo1UyCNhocf3Mhs05WLQHnf+qkQibsEiq2sMmjgJ83jLJs0vAnuC8ZiP0Eg=="
+  "payload": "{\"site\":{\"pages\":{\"patients\":\"pacientes.php\"}},\"scope\":\"webdiet\",\"version\":3,\"issuedAt\":\"2026-09-29T03:05:34.089Z\"}",
+  "signature": "t+zZXXGBIqaX/pvRhbDsThEeoT+JalO4MCtJqG4MpjVNBf1eNdzVBV8gy8wb3ssIeTai5ag5+WfCkkdDzY0rhA=="
 }
