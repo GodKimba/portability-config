@@ -6,5 +6,11 @@
     "ids": {
       "loginPassword": "emailLogin"
     }
+  },
+  "pause": {
+    "message": "A Conta Portátil está temporariamente indisponível."
+  },
+  "notice": {
+    "message": "A Conta Portátil está temporariamente indisponível."
   }
 }

@@ -1,4 +1,4 @@
 {
-  "payload": "{\"site\":{\"pages\":{\"patients\":\"pacientes.php\"},\"ids\":{\"loginPassword\":\"emailLogin\"}},\"scope\":\"webdiet\",\"version\":4,\"issuedAt\":\"2026-10-02T03:44:08.682Z\"}",
-  "signature": "Nbv8rTSYDv7gUnG37wCJxnNpFtnaLbeZU0vu5KpqhZnTmWBSaQpGXv9mfffH/Y/eCBGUxwwUtY0LN48+B9vLAg=="
+  "payload": "{\"site\":{\"pages\":{\"patients\":\"pacientes.php\"},\"ids\":{\"loginPassword\":\"emailLogin\"}},\"pause\":{\"message\":\"A Conta Portátil está temporariamente indisponível.\"},\"notice\":{\"message\":\"A Conta Portátil está temporariamente indisponível.\"},\"scope\":\"webdiet\",\"version\":5,\"issuedAt\":\"2026-10-26T19:47:34.981Z\"}",
+  "signature": "5Jq7GSKbP5tlAo663GOBoLkCt9vk9pd5EC1ykwEd8jory3w9eyZgl4hgW+nJRIvtK7T1Uc41h9mLgfRa+yk90g=="
 }
